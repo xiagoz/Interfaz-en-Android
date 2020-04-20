@@ -1,0 +1,2 @@
+rootProject.name='platzi music'
+include ':app'
